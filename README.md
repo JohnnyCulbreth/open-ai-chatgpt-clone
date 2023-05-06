@@ -12,8 +12,8 @@ This repository contains a simple web application that uses OpenAI's GPT to gene
 ### Installation
 To set up the project on your local machine, follow these steps:
 
-`git clone https://github.com/yourusername/personal-chatgpt.git
-cd personal-chatgpt
-npm install`
+`git clone https://github.com/yourusername/personal-chatgpt.git`
+`cd personal-chatgpt`
+`npm install`
 
 ![chatgpt2](https://user-images.githubusercontent.com/102640510/236641337-f5434d1b-cae3-4c80-920d-83abbb733ceb.png)
